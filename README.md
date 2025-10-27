@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **a Telegram mini-control panel (MCP)** to help people **choose their daily outfits** and save time during trips.  
 - 🌱 I’m focused on **Java and Spring Boot**, but also exploring **SQL, PHP, HTML, and modern frameworks**.  
-- 👯 I’m looking to collaborate on **scalable backend systems and AI-integrated projects**.  
+- 👯 I’m looking to collaborate on **backend systems**.  
 - 💬 Always open to advice, new ideas, and collaborations.  
 - 📫 Reach me at: **wilsonbarrera.ac@gmail.com**
 
