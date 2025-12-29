@@ -1,6 +1,6 @@
 <!-- Header con estilo centrado -->
 <h1 align="center">👋 Hi there, I'm <span style="color:#3B82F6">Wilson Barrera</span></h1>
-<h3 align="center">💻 Passionate Backend Developer from Colombia 🇨🇴</h3>
+<h3 align="center">💻 Passionate Backend Developer from Colombia</h3>
 
 ---
 
