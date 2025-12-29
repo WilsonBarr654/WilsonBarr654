@@ -1,6 +1,6 @@
 <!-- Header con estilo centrado -->
 <h1 align="center">👋 Hi there, I'm <span style="color:#3B82F6">Wilson Barrera</span></h1>
-<h3 align="center">💻 Passionate but lazy Backend Developer from Colombia 🇨🇴</h3>
+<h3 align="center">💻 Passionate Backend Developer from Colombia 🇨🇴</h3>
 
 ---
 
@@ -86,8 +86,8 @@
 
 ---
 
-###   quote the letter
-> “If you do something, don't just do it well, do the best.”  
+### Motto
+> “If you’re going to do something, do it right”  
 
 ---
 
